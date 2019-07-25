@@ -7,6 +7,12 @@ header {
     background-size: cover;
     background-attachment: fixed;
     height: 100%;
+    font-family: 'Lobster', cursive;
+    
+}
+
+body {
+    font-family: 'Darker Grotesque', sans-serif;
 }
 
 main {
